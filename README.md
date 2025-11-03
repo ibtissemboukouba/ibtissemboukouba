@@ -30,7 +30,7 @@
 | **Portfolio personnel** | Mon site de présentation et de projets | [ibtissemboukouba.github.io](https://ibtissemboukouba.github.io) |
 | **Site e-commerce WordPress** | Boutique WooCommerce sur mesure | [exemple-site1.com](https://exemple-site1.com) |
 | **Site vitrine - Agence déco** | Thème WordPress développé from scratch | [exemple-site2.com](https://exemple-site2.com) |
-| **Plugin WordPress API** | Création d’une API REST custom pour un client | [GitHub → Custom API](https://github.com/ibtissemboukouba/custom-api) |
+| **Plugin WordPress API** | Création d’une API REST custom pour un client | [GitHub → API REST](https://github.com/ibtissemboukouba/wp-api-rest-demo) |
 
 > 💡 *Tu peux remplacer les liens “exemple” par les vrais projets que tu veux mettre en avant.*
 
