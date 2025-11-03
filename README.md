@@ -32,7 +32,42 @@
 | **Site vitrine - Agence déco** | Thème WordPress développé from scratch | [exemple-site2.com](https://exemple-site2.com) |
 | **Plugin WordPress API** | Création d’une API REST custom pour un client | [GitHub → API REST](https://github.com/ibtissemboukouba/wp-api-rest-demo) |
 
-> 💡 *Tu peux remplacer les liens “exemple” par les vrais projets que tu veux mettre en avant.*
+---
+
+## 🌐 Projets WordPress Réalisés
+
+| **Type de site** | **Description** | **Lien** |
+|------------------|------------------|----------|
+| Site WordPress | Portail institutionnel de la communauté d’agglomération | [Beauvaisis.fr](https://www.beauvaisis.fr/) |
+| Site WordPress | Site officiel de la ville de Meudon | [Meudon.fr](https://www.meudon.fr/) |
+| Site WordPress | Communauté d’agglomération Vallée Sud Grand Paris | [ValléeSud.fr](https://www.valleesud.fr/) |
+| Site WordPress | Ville de Rambouillet | [Ville de Rambouillet](https://rambouillet.fr/) |
+| Site WordPress | Ville de Montereau-Fault-Yonne | [Ville Montereau](https://www.ville-montereau77.fr/) |
+| Site WordPress | Ville de Thonon-les-Bains | [Ville Thonon](https://www.ville-thonon.fr/) |
+| Site WordPress | Office de Tourisme du Val de Leyre | [Tourisme Val de Leyre](https://www.tourisme-valdeleyre.com/) |
+| Site WordPress | Observatoire de l’Eau de la Martinique | [Observatoire Eau Martinique](https://www.observatoire-eau-martinique.fr/) |
+| Site WordPress | Ville de Persan | [Ville de Persan](https://www.ville-persan.fr/) |
+| Site WordPress | Intranet institutionnel (accès restreint) | [Intranet Sadev94](http://intranet.sadev94.fr/) |
+| Site WordPress | Ville de Marmande | [Mairie Marmande](https://www.mairie-marmande.fr/) |
+| Site WordPress | Ville de Bry-sur-Marne | [Brysurmarne.fr](https://www.brysurmarne.fr/) |
+| Site WordPress | Ville d’Évreux | [Evreux.fr](https://www.evreux.fr/) |
+| Site WordPress | Communauté de communes Les Portes Briardes | [Lesportesbriardes.fr](https://www.lesportesbriardes.fr/) |
+| Site WordPress | Ville de Longjumeau | [Longjumeau.fr](https://www.longjumeau.fr/) |
+| Site WordPress | Ville de Montévrain | [Montevrain.fr](https://www.montevrain.fr/) |
+| Site WordPress | Ville de Saint-Lys | [Saint-lys.fr](https://www.saint-lys.fr/) |
+| Site WordPress | Département des Hautes-Alpes | [Hautes-Alpes.fr](https://www.hautes-alpes.fr/) |
+| Site WordPress | Département de Saône-et-Loire | [Saone et loire](https://www.saoneetloire.fr/) |
+| Site WordPress | Ville de Soisy-sous-Montmorency | [Soisy-sous-montmorency.fr](https://www.soisy-sous-montmorency.fr/) |
+| Site WordPress | Société STGO | [Stgo.fr](https://www.stgo.fr/) |
+| Site WordPress | Ville de Tournon-sur-Rhône | [Ville de Tournon](https://www.tournon-sur-rhone.fr/) |
+| Site WordPress | Établissement public Paris Terre d’Envol | [Paris Terre d'envol](https://www.paristerresdenvol.fr/) |
+| Site WordPress | Entreprise Aqua Swiss (Suisse) | [Aqua Swiss](https://aqua-swiss.com/) |
+| Site WordPress | Société Finergy (Suisse) | [Finergy](https://www.finergy.ch/) |
+| Site WordPress | Portail environnement CEDRA Hautes-Alpes | [Cedra Hautes-Alpes](https://cedra.hautes-alpes.fr/) |
+| Site WordPress | Ville de Guipavas (Bretagne) | [Guipavas.bzh](https://guipavas.bzh/) |
+
+> ⚠️ Le code source de ces projets appartient à mes anciens employeurs et n'est pas publié pour des raisons de confidentialité.  
+> Ces réalisations illustrent mon expérience dans le développement de sites WordPress institutionnels et sur mesure.
 
 ---
 
