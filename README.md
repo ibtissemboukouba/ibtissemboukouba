@@ -28,7 +28,7 @@
 | Projet | Description | Lien |
 |--------|--------------|------|
 | **Portfolio personnel** | Mon site de présentation et de projets | [ibtissemboukouba.github.io](https://ibtissemboukouba.github.io) |
-| **Site e-commerce WordPress** | Boutique WooCommerce sur mesure | [exemple-site1.com](https://exemple-site1.com) |
+| **Mini Blog React JS** | Mini Blog avec React | [React App](https://github.com/ibtissemboukouba/react-blog) |
 | **Site vitrine - Agence déco** | Thème WordPress développé from scratch | [exemple-site2.com](https://exemple-site2.com) |
 | **Plugin WordPress API** | Création d’une API REST custom pour un client | [GitHub → API REST](https://github.com/ibtissemboukouba/wp-api-rest-demo) |
 
