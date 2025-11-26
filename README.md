@@ -33,7 +33,14 @@
 | **Plugin WordPress API** | Création d’une API REST custom pour un client | [GitHub → API REST](https://github.com/ibtissemboukouba/wp-api-rest-demo) |
 
 ---
+### 💼 Projets Design web
 
+| Projet | Description | Lien |
+|--------|--------------|------|
+| **Bool Café Landing Page** | Projet Design web - Création Landing page pour Café | [Bool Café Landing Page](https://github.com/ibtissemboukouba/Bloom-Cafe-UI-Design) |
+
+
+---
 ## 🌐 Projets WordPress Réalisés
 
 | **Type de site** | **Description** | **Lien** |
