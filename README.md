@@ -1,7 +1,7 @@
 <h1 align="center">🖤 Ibtissem Boukouba</h1>
 
 <p align="center">
-  <strong>Développeuse Web Full-Stack PHP | Symfony | WordPress | PrestaShop || React</strong><br>
+  <strong>Web Designer || Développeuse Web Full-Stack PHP | Symfony | WordPress | PrestaShop || React</strong><br>
   Création de sites performants, modernes et optimisés pour les besoins clients.
 </p>
 
